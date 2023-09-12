@@ -2,9 +2,9 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.0-brightgreen.svg)](https://djangoproject.com)
-[![CircleCI](https://circleci.com/gh/suhailvs/django-schools.svg?style=svg)](https://circleci.com/gh/suhailvs/django-schools)
 
-## [demo](https://django.stackschools.com/)
+
+
 
 This is an example project to illustrate an implementation of multiple user types. In this Django app, teachers can create quizzes and students can sign up and take quizzes related to their interests.
 
@@ -17,7 +17,7 @@ Read the blog post [How to Implement Multiple User Types with Django](https://si
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/suhailvs/django-schools
+git clone https://github.com/neji-glitch/Django-school
 ```
 
 Create Virtual Env and Install the requirements:
